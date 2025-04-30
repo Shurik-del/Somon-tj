@@ -1,2 +1,138 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ads formatVersion="3" target="somon.tj"><ad><id>001</id><title>Nokia 150 2023</title><description>Новая модель, отличное состояние.</description><price>125</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>002</id><title>Nokia 150 2020</title><description>Телефон в хорошем состоянии, оригинал.</description><price>125</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>003</id><title>Nokia 106 2023</title><description>Классическая модель, новая.</description><price>85</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>004</id><title>Nokia 125</title><description>Простой и надёжный телефон.</description><price>120</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>005</id><title>Nokia 235</title><description>Современный дизайн, удобный интерфейс.</description><price>155</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>006</id><title>Nokia 6300</title><description>Классика, проверенная временем.</description><price>130</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>007</id><title>B310</title><description>Простой и удобный для звонков.</description><price>110</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>008</id><title>Nokia 3310</title><description>Легендарный телефон, как новый.</description><price>125</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad><ad><id>009</id><title>Nokia 3210</title><description>Ретро-стиль, хорошая батарея.</description><price>150</price><category>Телефоны</category><region>Душанбе</region><phone>+992901004000</phone></ad></ads>
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <list-item>
+    <external_id>001</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 150 2023</title>
+    <description>Новая модель, отличное состояние.</description>
+    <price>125.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>2</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>002</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 150 2020</title>
+    <description>Телефон в хорошем состоянии, оригинал.</description>
+    <price>125.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>1</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>003</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 106 2023</title>
+    <description>Классическая модель, новая.</description>
+    <price>85.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>2</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>004</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 125</title>
+    <description>Простой и надёжный телефон.</description>
+    <price>120.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>2</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>005</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 235</title>
+    <description>Современный дизайн, удобный интерфейс.</description>
+    <price>155.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>2</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>006</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 6300</title>
+    <description>Классика, проверенная временем.</description>
+    <price>130.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>1</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>007</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>B310</title>
+    <description>Простой и удобный для звонков.</description>
+    <price>110.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>2</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>008</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 3310</title>
+    <description>Легендарный телефон, как новый.</description>
+    <price>125.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>2</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+  <list-item>
+    <external_id>009</external_id>
+    <last_update>2025-04-30 12:00:00</last_update>
+    <status>active</status>
+    <rubric>282</rubric>
+    <district>12</district>
+    <title>Nokia 3210</title>
+    <description>Ретро-стиль, хорошая батарея.</description>
+    <price>150.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>0</negotiable_price>
+    <exchange>0</exchange>
+    <condition>1</condition>
+    <chosen_phone>+992901004000</chosen_phone>
+  </list-item>
+</root>
